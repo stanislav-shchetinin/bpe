@@ -31,4 +31,8 @@ public class I implements K {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
