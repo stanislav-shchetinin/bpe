@@ -31,4 +31,8 @@ public class C implements F {
     public int af() {
         return -1;
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }
