@@ -19,12 +19,4 @@ public class C implements F {
     public Object pp() {
         return this;
     }
-
-    public String kk() {
-        return "Hello world";
-    }
-
-    public int cc() {
-        return 42;
-    }
 }
