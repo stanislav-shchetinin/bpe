@@ -39,4 +39,8 @@ public class I extends null implements K {
     public byte oo() {
         return 4;
     }
+
+    public void aa() {
+        return;
+    }
 }

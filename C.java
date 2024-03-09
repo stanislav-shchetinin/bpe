@@ -39,4 +39,8 @@ public class C extends null implements F {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
