@@ -43,4 +43,20 @@ public class I extends null implements K {
     public void aa() {
         return;
     }
+
+    public Object rr() {
+        return null;
+    }
+
+    public long ac() {
+        return 222;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

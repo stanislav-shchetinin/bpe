@@ -25,7 +25,7 @@ public class C extends null implements F {
     }
 
     public int cc() {
-        return 42;
+        return 39;
     }
 
     public int af() {
@@ -42,5 +42,9 @@ public class C extends null implements F {
 
     public java.util.Random mm() {
         return new java.util.Random();
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }
