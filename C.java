@@ -1,4 +1,4 @@
-public class C implements F {
+public class C extends null implements F {
 
     private int c = 42;
 
@@ -34,5 +34,9 @@ public class C implements F {
 
     public double ad() {
         return 9.11;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 }

@@ -1,4 +1,4 @@
-public class I implements K {
+public class I extends null implements K {
 
     private String i = "test";
 
@@ -34,5 +34,9 @@ public class I implements K {
 
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
+    }
+
+    public byte oo() {
+        return 4;
     }
 }
