@@ -23,4 +23,8 @@ public class C implements F {
     public String kk() {
         return "Hello world";
     }
+
+    public int cc() {
+        return 42;
+    }
 }

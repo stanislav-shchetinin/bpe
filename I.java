@@ -23,4 +23,8 @@ public class I implements K {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int af() {
+        return -1;
+    }
 }
